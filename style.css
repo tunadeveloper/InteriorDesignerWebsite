@@ -20,16 +20,6 @@ h1 a{
 text-decoration: none;
 }
 
-span{
-    transition: color 0.3s;
-}
-
-h1:hover{
-    span{
-        color: red;
-    }
-}
-
 .links{
     display: inline-block;
 }
