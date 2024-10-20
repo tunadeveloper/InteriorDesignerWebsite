@@ -1,4 +1,4 @@
-# 🖼️ **Kişisel Portfolyo Projesi**
+# 🖼️ **İç Mimar Tanıtım Projesi**
 
 ---
 
